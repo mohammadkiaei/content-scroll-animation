@@ -18,4 +18,4 @@ function checkBoxes() {
    });
 }
 
-// Developed By SeyedMohammadMahdi Kiaei 
+// Developed By Mohammad Kiaei
